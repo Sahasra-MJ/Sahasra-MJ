@@ -39,7 +39,6 @@
 
 ## 🔹 Backend
 🔹 Node.js  
-🔹 Express.js  
 
 ## 🔹 Database
 🔹 Sql  
