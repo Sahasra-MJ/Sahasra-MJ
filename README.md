@@ -148,10 +148,13 @@ Personal portfolio to showcase skills, projects, resume and achievements.
 # 🔷 Mini Game — Take a Break 🎮
 
 <p align="center">
-
-<iframe src="https://playsnake.org/" width="420" height="420" style="border-radius:12px;"></iframe>
-
+<a href="https://playsnake.org/">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+</a>
 </p>
+
+<p align="center">Click the game to play 🐍</p>
+
 
 ---
 
