@@ -1,10 +1,10 @@
 <!-- ================= Animated Header ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=42&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Sahasra+Oliyarasi+MJ;Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=42&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Sahasra+Oliyarasi+MJ;Pre+Final+Year;Full+Stack+Developer;Problem+Solver+🚀" />
 </p>
 
-<h3 align="center">💙 Turning ideas into scalable web apps & solving problems with code</h3>
+<h3 align="center">💙 DSA Enthusuast | Always Learning | Java Developer</h3>
 
 ---
 
