@@ -1,12 +1,17 @@
-<!-- ================= Animated Header (KEEP THIS) ================= -->
+<!-- ================= Animated Header ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Sahasra+Oliyarasi+MJ;Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=42&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Sahasra+Oliyarasi+MJ;Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning+🚀" />
 </p>
+
+<h3 align="center">💙 Turning ideas into scalable web apps & solving problems with code</h3>
 
 ---
 
+
 # 🔷 About Me
+
+<img width="676" height="686" alt="image" src="https://github.com/user-attachments/assets/adff54e8-b9b7-47e4-b493-ace3c4cd211b" />
 
 🎓 Computer Science Engineering Student  
 💙 Passionate about Full-Stack Development  
@@ -113,17 +118,11 @@ Responsive personal developer portfolio.
 
 ---
 
-# 🔷 Mini Game (Take a Break 😄)
+# 🔷 Mini Game — Take a Break 🎮
 
 <p align="center">
 
-<a href="https://tetris.com/play-tetris">
-  <img src="https://img.shields.io/badge/Play%20Tetris-1e3c72?style=for-the-badge&logo=gamepad&logoColor=white"/>
-</a>
-
-<a href="https://quickdraw.withgoogle.com/">
-  <img src="https://img.shields.io/badge/Quick%20Draw-2a5298?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
+<iframe src="https://playsnake.org/" width="420" height="420" style="border-radius:12px;"></iframe>
 
 </p>
 
