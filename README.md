@@ -1,78 +1,71 @@
-<!-- ================= BLUE ANIMATED HEADER ================= -->
+<!-- ================= Animated Header (KEEP THIS) ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:1e3c72,100:2a5298&text=Sahasra%20Oliyarasi%20MJ&fontColor=ffffff&fontSize=45&fontAlignY=40&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=26&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Sahasra+Oliyarasi+MJ;Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning+🚀" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# 🔷 About Me
 
 🎓 Computer Science Engineering Student  
-💙 Passionate about building real-world web apps  
+💙 Passionate about Full-Stack Development  
 🧠 Strong in Data Structures & Algorithms  
-⚡ Love solving problems & writing clean code  
+⚡ Love building real-world applications  
 🎯 Goal → Product Based Software Engineer  
 
 ---
 
-# 🛠 Tech Stack
+# 🔷 Tech Stack
 
-## Languages
-C  
-Java  
-JavaScript  
+## 🔹 Languages
+🔹 C  
+🔹 Java  
+🔹 JavaScript  
 
-## Frontend
-HTML  
-CSS  
-React  
-Tailwind CSS  
+## 🔹 Frontend
+🔹 HTML  
+🔹 CSS  
+🔹 React  
+🔹 Tailwind CSS  
 
-## Backend
-Node.js  
-Express.js  
+## 🔹 Backend
+🔹 Node.js  
+🔹 Express.js  
 
-## Database
-MongoDB  
+## 🔹 Database
+🔹 MongoDB  
 
-## Tools
-Git  
-GitHub  
-Postman  
-Figma  
+## 🔹 Tools
+🔹 Git  
+🔹 GitHub  
+🔹 Postman  
+🔹 Figma  
 
 ---
 
-# 🚀 Projects
+# 🔷 Projects
 
-## 🛡 ScamLens — Internship Offer Verification Platform
-Rule-driven system to detect fake internship offer letters and protect students from scams.  
-React + Node + MongoDB  
-
+### 🛡 ScamLens — Internship Offer Verification Platform
+Rule-driven system to detect fake internship offers and protect students.  
+React • Node • MongoDB  
 🔗 https://github.com/Sahasra-MJ/scamlens  
 
 ---
 
-## 💻 CodeArena — Coding Practice Platform
-Online coding challenge system with timed tests and progress tracking.  
-
+### 💻 CodeArena — Coding Practice Platform
+Practice DSA with timed tests, coding challenges and progress tracking.  
 🔗 https://github.com/Sahasra-MJ/codearena  
 
 ---
 
-## 🌐 Portfolio Website
-Personal responsive developer portfolio.  
-
+### 🌐 Portfolio Website
+Responsive personal developer portfolio.  
 🔗 https://sahasra-oliyarasi-mj.vercel.app  
 
 ---
 
-# 📊 GitHub Stats
+# 🔷 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahasra-MJ&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -81,7 +74,7 @@ Personal responsive developer portfolio.
 
 ---
 
-# 🟠 LeetCode Progress
+# 🔷 LeetCode Progress
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sahasra_Oliyarasi?theme=dark&font=baloo&ext=heatmap"/>
@@ -89,24 +82,24 @@ Personal responsive developer portfolio.
 
 ---
 
-# 🐍 Contribution Snake (Blue Theme)
+# 🔷 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🔷 Achievements
 
-🥇 Rank 1 — Department Topper in SkillRack Problem Solving  
-💯 Highest problems solved in department  
-🎓 Completed **Java Workshop at CodeIO**  
-🚀 Active coding contest participant  
+🏆 Rank 1 — Department Topper in SkillRack Problem Solving  
+🏆 Highest number of problems solved in department  
+🏆 Completed **Java Workshop at CodeIO**  
+🏆 Active coding contest participant  
 
 ---
 
-# 🎮 Fun Zone
+# 🔷 Fun Zone
 
 ## 😂 Random Dev Joke
 <p align="center">
@@ -120,23 +113,23 @@ Personal responsive developer portfolio.
 
 ---
 
-# 🕹 Mini Game (Take a Break 😄)
+# 🔷 Mini Game (Take a Break 😄)
 
 <p align="center">
 
 <a href="https://tetris.com/play-tetris">
-  <img src="https://img.shields.io/badge/Play%20Tetris%20Game-1e3c72?style=for-the-badge&logo=gamepad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Play%20Tetris-1e3c72?style=for-the-badge&logo=gamepad&logoColor=white"/>
 </a>
 
 <a href="https://quickdraw.withgoogle.com/">
-  <img src="https://img.shields.io/badge/Quick%20Draw%20Game-2a5298?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Quick%20Draw-2a5298?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🔷 Connect With Me
 
 <p align="center">
 
@@ -161,6 +154,6 @@ Personal responsive developer portfolio.
 ---
 
 <p align="center">
-💙 Built with passion | Keep coding | Keep growing 🚀
+💙 Keep Coding • Keep Growing • Keep Winning 🚀
 </p>
 
