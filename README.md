@@ -11,12 +11,15 @@
 
 # 🔷 About Me
 
-<img width="676" height="686" alt="image" src="https://github.com/user-attachments/assets/adff54e8-b9b7-47e4-b493-ace3c4cd211b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/adff54e8-b9b7-47e4-b493-ace3c4cd211b" height="260"/>
+</p>
 
 🎓 Computer Science Engineering Student  
 💙 Passionate about Full-Stack Development  
 🧠 Strong in Data Structures & Algorithms  
-⚡ Love building real-world applications  
+⚡ Love building scalable and clean applications  
+🚀 Enjoy solving real-world problems with code  
 🎯 Goal → Product Based Software Engineer  
 
 ---
@@ -52,29 +55,53 @@
 # 🔷 Projects
 
 ### 🛡 ScamLens — Internship Offer Verification Platform
-Rule-driven system to detect fake internship offers and protect students.  
-React • Node • MongoDB  
-🔗 https://github.com/Sahasra-MJ/scamlens  
+A rule-driven web platform that detects fake internship offer letters and prevents students from scams.
+
+🔹 Offer letter authenticity verification  
+🔹 Rule-based validation engine  
+🔹 Secure backend APIs  
+🔹 Real-time status feedback  
+🔹 Built using React, Node.js, MongoDB  
+
+🔗 GitHub → https://github.com/Sahasra-MJ/scamlens  
 
 ---
 
 ### 💻 CodeArena — Coding Practice Platform
-Practice DSA with timed tests, coding challenges and progress tracking.  
-🔗 https://github.com/Sahasra-MJ/codearena  
+An interactive coding platform designed to improve problem-solving and DSA skills.
+
+🔹 Timed coding challenges  
+🔹 Multiple difficulty levels  
+🔹 Live code execution  
+🔹 Progress tracking dashboard  
+🔹 Competitive practice environment  
+
+🔗 GitHub → https://github.com/Sahasra-MJ/codearena  
 
 ---
 
 ### 🌐 Portfolio Website
-Responsive personal developer portfolio.  
-🔗 https://sahasra-oliyarasi-mj.vercel.app  
+Personal portfolio to showcase skills, projects, resume and achievements.
+
+🔹 Responsive modern UI  
+🔹 Project showcase  
+🔹 Resume download  
+🔹 Contact integration  
+🔹 Deployed on Vercel  
+
+🔗 Live → https://sahasra-oliyarasi-mj.vercel.app  
+
 
 ---
 
 # 🔷 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahasra-MJ&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-MJ&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahasra-MJ&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-MJ&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
 </p>
 
 ---
