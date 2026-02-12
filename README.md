@@ -61,7 +61,7 @@ A rule-driven web platform that detects fake internship offer letters and preven
 🔹 Rule-based validation engine  
 🔹 Secure backend APIs  
 🔹 Real-time status feedback  
-🔹 Built using React, Node.js, MongoDB  
+🔹 Built using React, Node.js, Sql
 
 🔗 GitHub → https://github.com/Sahasra-MJ/scamlens  
 
@@ -145,42 +145,33 @@ Personal portfolio to showcase skills, projects, resume and achievements.
 
 ---
 
-# 🔷 Mini Game — Take a Break 🎮
-
-<p align="center">
-<a href="https://playsnake.org/">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
-</a>
-</p>
-
-<p align="center">Click the game to play 🐍</p>
-
-
----
 
 # 🔷 Connect With Me
 
 <p align="center">
 
 <a href="mailto:sahasramayildevv@gmail.com">
-<img src="https://img.shields.io/badge/Email-1e3c72?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📧%20Email-1e3c72?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sahasra-oliyarasi-m-j18/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Sahasra_Oliyarasi/">
-<img src="https://img.shields.io/badge/LeetCode-2a5298?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🧠%20LeetCode-2a5298?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://sahasra-oliyarasi-mj.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-1e40af?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sahasra-MJ">
-<img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🐙%20GitHub-0f2027?style=for-the-badge&logoColor=white"/>
 </a>
 
 </p>
 
----
 
 <p align="center">
 💙 Keep Coding • Keep Growing • Keep Winning 🚀
