@@ -1,22 +1,22 @@
-<!-- ================= Animated Header ================= -->
+<!-- ================= BLUE ANIMATED HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Sahasra+Oliyarasi+MJ;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:1e3c72,100:2a5298&text=Sahasra%20Oliyarasi%20MJ&fontColor=ffffff&fontSize=45&fontAlignY=40&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=26&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Always+Learning+🚀" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" height="180"/>
-</p>
-
 🎓 Computer Science Engineering Student  
-💻 Passionate about Full-Stack Development  
+💙 Passionate about building real-world web apps  
 🧠 Strong in Data Structures & Algorithms  
-🚀 Love building real-world web applications  
-🎯 Goal → Become a Product Based Software Engineer  
+⚡ Love solving problems & writing clean code  
+🎯 Goal → Product Based Software Engineer  
 
 ---
 
@@ -51,53 +51,48 @@ Figma
 # 🚀 Projects
 
 ## 🛡 ScamLens — Internship Offer Verification Platform
-A rule-driven web platform that detects fake internship offer letters and protects students from scams.
-
-• Smart validation engine  
-• Document verification  
-• Secure backend APIs  
-• React + Node + MongoDB  
+Rule-driven system to detect fake internship offer letters and protect students from scams.  
+React + Node + MongoDB  
 
 🔗 https://github.com/Sahasra-MJ/scamlens  
 
 ---
 
 ## 💻 CodeArena — Coding Practice Platform
-An interactive coding platform for students to practice DSA with challenges and progress tracking.
-
-• Timed coding tests  
-• Real-time evaluation  
-• Problem solving dashboard  
-• Beginner → Advanced levels  
+Online coding challenge system with timed tests and progress tracking.  
 
 🔗 https://github.com/Sahasra-MJ/codearena  
 
 ---
 
 ## 🌐 Portfolio Website
-Personal portfolio to showcase projects, skills and resume.
+Personal responsive developer portfolio.  
 
-🔗 Live → https://sahasra-oliyarasi-mj.vercel.app  
-🔗 Repo → https://github.com/Sahasra-MJ/portfolio  
+🔗 https://sahasra-oliyarasi-mj.vercel.app  
 
 ---
 
-# 📊 GitHub & Coding Stats
+# 📊 GitHub Stats
 
 <p align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sahasra-MJ&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-MJ&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sahasra-MJ&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-MJ&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🟠 LeetCode Progress
+# 🟠 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sahasra_Oliyarasi?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Sahasra_Oliyarasi?theme=dark&font=baloo&ext=heatmap"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake (Blue Theme)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -105,9 +100,9 @@ Personal portfolio to showcase projects, skills and resume.
 # 🏆 Achievements
 
 🥇 Rank 1 — Department Topper in SkillRack Problem Solving  
-💯 Highest number of problems solved in department  
+💯 Highest problems solved in department  
 🎓 Completed **Java Workshop at CodeIO**  
-🚀 Active contributor in coding contests  
+🚀 Active coding contest participant  
 
 ---
 
@@ -125,12 +120,28 @@ Personal portfolio to showcase projects, skills and resume.
 
 ---
 
+# 🕹 Mini Game (Take a Break 😄)
+
+<p align="center">
+
+<a href="https://tetris.com/play-tetris">
+  <img src="https://img.shields.io/badge/Play%20Tetris%20Game-1e3c72?style=for-the-badge&logo=gamepad&logoColor=white"/>
+</a>
+
+<a href="https://quickdraw.withgoogle.com/">
+  <img src="https://img.shields.io/badge/Quick%20Draw%20Game-2a5298?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:sahasramayildevv@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-1e3c72?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sahasra-oliyarasi-m-j18/">
@@ -138,15 +149,11 @@ Personal portfolio to showcase projects, skills and resume.
 </a>
 
 <a href="https://leetcode.com/u/Sahasra_Oliyarasi/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://sahasra-oliyarasi-mj.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-2a5298?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sahasra-MJ">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -154,5 +161,6 @@ Personal portfolio to showcase projects, skills and resume.
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile — Keep Learning, Keep Building 🚀
+💙 Built with passion | Keep coding | Keep growing 🚀
 </p>
+
