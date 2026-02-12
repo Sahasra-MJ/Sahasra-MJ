@@ -1,78 +1,109 @@
-<h1 align="center">Hi 👋, I'm Sahasra Oliyarasi MJ</h1>
-<h3 align="center">🚀 Full Stack Developer | Java & DSA Learner | CSE Student</h3>
+<!-- Animated Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Sahasra+Oliyarasi+MJ;Full+Stack+Developer;React+%7C+Node+%7C+Java+%7C+DSA;Building+Cool+Projects+🚀;Always+Learning+Something+New+✨" />
+</h1>
+
+<h3 align="center">🌟 CSE Student | Full Stack Developer | Problem Solver</h3>
+
+---
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahasra-Oliyarasi-MJ&label=Profile+Visitors&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 3rd Year CSE Student  
-💻 Passionate about Web Development & Problem Solving  
-🌱 Currently learning **DSA + Backend + React Advanced**  
-⚡ Love building real-world projects  
-📍 Goal: Software Developer / Product Company Engineer  
+🎓 3rd Year Computer Science Student  
+💻 Love building real-world web applications  
+🌱 Currently learning **DSA + Backend Development**  
+⚡ Interested in **Product Companies & Scalable Systems**  
+🚀 Goal → Become a strong Software Engineer  
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Connect With Me
+
+📧 **Email:** sahasramayildevv@gmail.com  
+🌐 **Portfolio:** https://sahasra-oliyarasi-mj.vercel.app/  
+💼 **LinkedIn:** https://www.linkedin.com/in/sahasra-oliyarasi-m-j18/  
+🧠 **LeetCode:** https://leetcode.com/u/Sahasra_Oliyarasi/  
+🏆 **SkillRack:** https://www.skillrack.com/faces/resume.xhtml?id=525877&key=98edabe72a0d5eca65988b852eae3c35fe12a905  
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C](https://skillicons.dev/icons?i=c,java,js)
 
 ### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind)
 
 ### ⚙️ Backend & Tools
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+![Tools](https://skillicons.dev/icons?i=nodejs,git,github,postman,figma)
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
 ### 🔹 ScamLens
-🛡️ Rule-driven web platform to verify internship offer letters  
-✔ Detects suspicious offers  
-✔ Improves student safety  
+🛡️ Rule-driven platform to verify internship offer letters and detect scams
 
 ### 🔹 CodeArena
-💻 Online coding practice platform  
-✔ Solve problems  
-✔ Practice DSA  
-✔ Improve logic  
+💻 Coding practice platform to improve DSA & logic building
 
 ### 🔹 Portfolio Website
-🌐 Personal portfolio showcasing projects, skills & resume  
+🌐 Personal website showcasing projects & achievements
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![Sahasra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Sahasra-Oliyarasi-MJ&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+## Top Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-Oliyarasi-MJ&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-📧 Email: your-email@example.com  
-💼 LinkedIn: add-your-link  
-🌐 Portfolio: add-your-link  
+## Streak
+![Streak](https://streak-stats.demolab.com?user=Sahasra-Oliyarasi-MJ&theme=tokyonight&hide_border=true)
 
 ---
 
-⭐ From [Sahasra Oliyarasi MJ](https://github.com/Sahasra-MJ)
+# 🏆 Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sahasra-Oliyarasi-MJ&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+# 🎮 Fun Zone (Unique Games 😄)
+
+### 🐍 Snake Eating My Contributions
+![Snake Game](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+### 😂 Dev Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+---
+
+# ✨ Cool Badges
+
+![Open Source Lover](https://img.shields.io/badge/Open%20Source-❤-red)
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solver-blue)
+![React Developer](https://img.shields.io/badge/React-Developer-61DAFB)
+![Java](https://img.shields.io/badge/Java-Backend-orange)
+
+---
+
+# 🌟 Quote I Follow
+
+> “Consistency beats talent when talent doesn’t work hard.”
+
+---
+
+<p align="center">
+  ⭐ From <b>Sahasra Oliyarasi MJ</b>
+</p>
