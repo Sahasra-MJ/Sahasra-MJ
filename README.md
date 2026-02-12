@@ -1,117 +1,86 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Sahasra+Oliyarasi+MJ;Full+Stack+Developer;React+%7C+Node+%7C+Java+%7C+DSA;Building+Smart+and+Secure+Applications+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sahasra%20Oliyarasi%20MJ&fontSize=45&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" />
 </p>
 
-<h3 align="center">💻 CSE Student | 🚀 Full Stack Developer | 🧠 Problem Solver</h3>
-
----
-
-<!-- ================= CONNECT ================= -->
-
-# 🤝 Connect With Me
+<h2 align="center">✨ Deepening Knowledge 📚</h2>
 
 <p align="center">
-
-<a href="mailto:sahasramayildevv@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://sahasra-oliyarasi-mj.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sahasra-oliyarasi-m-j18/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Sahasra_Oliyarasi/">
-  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.skillrack.com/faces/resume.xhtml?id=525877&key=98edabe72a0d5eca65988b852eae3c35fe12a905">
-  <img src="https://img.shields.io/badge/SkillRack-Achievements-28a745?style=for-the-badge"/>
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=Sahasra-Oliyarasi-MJ&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Sahasra-Oliyarasi-MJ?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/Sahasra-Oliyarasi-MJ?style=for-the-badge"/>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 3rd Year Computer Science Student  
-💡 Passionate about solving real-world problems through code  
-⚡ Love building secure, scalable & user-friendly applications  
-🌱 Currently focusing on **DSA + Backend + System Design**  
-🎯 Goal → Software Engineer at a product-based company  
+<table>
+<tr>
+<td width="55%">
+
+🎓 **Computer Science Engineering Student**  
+Francis Xavier Engineering College (2022–2026)
+
+💡 **Aspiring Software Developer**  
+Strong foundations in **DSA & Full Stack Development**
+
+🔥 **Currently Mastering**
+- React & Tailwind
+- Node.js Backend
+- Advanced Java
+- System Design
+
+🚀 Love building **secure, scalable & real-world apps**
+
+</td>
+
+<td width="45%">
+  <img src="https://illustrations.popsy.co/gray/web-development.svg" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
+# 🤝 Connect With Me
 
-## 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,js" />
+<p align="center">
+
+<a href="mailto:sahasramayildevv@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://sahasra-oliyarasi-mj.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sahasra-oliyarasi-m-j18/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Sahasra_Oliyarasi/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.skillrack.com/faces/resume.xhtml?id=525877&key=98edabe72a0d5eca65988b852eae3c35fe12a905">
+<img src="https://img.shields.io/badge/SkillRack-28a745?style=for-the-badge"/>
+</a>
+
 </p>
 
-## 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
+---
 
-## ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+# 🛠 Tech Stack
 
-## 🧰 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,tailwind,nodejs,git,github,postman,figma,vscode"/>
 </p>
 
 ---
 
-# 🚀 Projects
-
-## 🔹 ScamLens – Internship Offer Letter Verification Platform
-🛡️ A rule-driven web system that detects fake internship/job offers and protects students from scams  
-✨ Features:
-- Intelligent rule validation
-- Fraud pattern detection
-- Student safety alerts
-- Clean React UI + Node backend  
-
-🔗 **GitHub:** https://github.com/YOUR_USERNAME/scamlens
-
----
-
-## 🔹 CodeArena – Coding Practice Platform
-💻 A problem-solving platform for practicing DSA & logic building  
-✨ Features:
-- Practice coding challenges
-- Timer-based tests
-- Performance tracking
-- Beginner-friendly interface  
-
-🔗 **GitHub:** https://github.com/YOUR_USERNAME/codearena
-
----
-
-## 🔹 Personal Portfolio Website
-🌐 Responsive portfolio to showcase skills, resume & projects  
-✨ Features:
-- Modern UI/UX
-- Project gallery
-- Contact form
-- Built with React + Tailwind  
-
-🔗 **Live:** https://sahasra-oliyarasi-mj.vercel.app/  
-🔗 **GitHub:** https://github.com/YOUR_USERNAME/portfolio
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?Sahasra-MJ=Sahasra-Oliyarasi-MJ&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -127,10 +96,7 @@
 # 🏆 Achievements
 
 🥇 **Rank 1 – Department Topper in SkillRack Problem Solving**  
-💯 Solved highest number of coding problems in the department  
-
-🏅 Strong foundation in Data Structures & Algorithms  
-🏅 Regular competitive coding practice on LeetCode  
+💯 Solved highest number of coding problems  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sahasra-Oliyarasi-MJ&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -138,28 +104,130 @@
 
 ---
 
-# 🎮 Fun Zone
+# 🚀 Featured Projects
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<!-- You can paste the card-table projects section here -->
+# 🚀 Featured Projects
 
-## 😂 Random Dev Joke
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-</p>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛡️ ScamLens  
+**Internship Offer Letter Verification Platform**
+
+![React](https://img.shields.io/badge/React-blue)
+![Node](https://img.shields.io/badge/Node-green)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+
+🎯 **2024 | Personal Project**
+
+A rule-driven system that helps students detect fake internship/job offers and prevents scams.
+
+### ✨ Key Features
+- 🔐 Authentication & validation rules  
+- 📄 Offer letter verification engine  
+- ⚠️ Fraud detection alerts  
+- 📊 Clean dashboard  
+
+### 🚀 Impact
+- Protects students from scams  
+- Real-world security use case  
+
+🔗 **[GitHub Repo](https://github.com/Sahasra-MJ/scamlens)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💻 CodeArena  
+**Coding Practice Platform**
+
+![React](https://img.shields.io/badge/React-blue)
+![Node](https://img.shields.io/badge/Node-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+
+🎯 **2024 | Personal Project**
+
+An interactive coding platform for practicing DSA problems and improving logical thinking.
+
+### ✨ Key Features
+- ⏱️ Timed challenges  
+- 📈 Progress tracking  
+- 🧠 Multiple difficulty levels  
+- 📱 Responsive UI  
+
+### 🚀 Impact
+- Improves problem-solving skills  
+- Helps students prepare for interviews  
+
+🔗 **[GitHub Repo](https://github.com/Sahasra-MJ/codearena)**
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Portfolio Website  
+**Personal Developer Portfolio**
+
+![React](https://img.shields.io/badge/React-blue)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue)
+![Vercel](https://img.shields.io/badge/Vercel-black)
+
+🎯 **Live Personal Site**
+
+Modern responsive website showcasing skills, projects, and resume.
+
+### ✨ Key Features
+- 🎨 Beautiful UI/UX  
+- 📂 Project showcase  
+- 📬 Contact form  
+- ⚡ Fast & optimized  
+
+🔗 **[Live Site](https://sahasra-oliyarasi-mj.vercel.app/)**  
+🔗 **[GitHub Repo](https://github.com/YOUR_USERNAME/portfolio)**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 More Coming Soon...
+
+Currently building:
+- 🔹 Full Stack Apps  
+- 🔹 DSA Projects  
+- 🔹 Open Source Contributions  
+
+Stay tuned 👀
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ✨ Quote
+# 🎮 Fun Zone
 
 <p align="center">
-  <i>"Small improvements every day lead to big success."</i>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <br><br>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 </p>
 
 ---
 
 <p align="center">
 ⭐ From <b>Sahasra Oliyarasi MJ</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
