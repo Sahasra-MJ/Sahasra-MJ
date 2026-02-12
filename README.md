@@ -43,48 +43,94 @@ Strong foundations in **DSA & Full Stack Development**
 </table>
 
 ---
+---
 
-# 🤝 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
+<a href="https://www.linkedin.com/in/sahasra-oliyarasi-m-j18/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+
 <a href="mailto:sahasramayildevv@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
 </a>
 
 <a href="https://sahasra-oliyarasi-mj.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sahasra-oliyarasi-m-j18/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
 </a>
 
 <a href="https://leetcode.com/u/Sahasra_Oliyarasi/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.skillrack.com/faces/resume.xhtml?id=525877&key=98edabe72a0d5eca65988b852eae3c35fe12a905">
-<img src="https://img.shields.io/badge/SkillRack-28a745?style=for-the-badge"/>
+<a href="https://github.com/Sahasra-Oliyarasi-MJ">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
----
 
-# 🛠 Tech Stack
+<!-- Icons Row (like screenshot) -->
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,tailwind,nodejs,git,github,postman,figma,vscode"/>
+
+<a href="https://www.linkedin.com/in/sahasra-oliyarasi-m-j18/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sahasramayildevv@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sahasra-Oliyarasi-MJ">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://sahasra-oliyarasi-mj.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
+</a>
+
 </p>
 
 ---
+
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js" />
+</p>
+
+---
+
+## 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+---
+
+## ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+---
+
+## 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
+
 
 # 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?Sahasra-MJ=Sahasra-Oliyarasi-MJ&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahasra-Oliyarasi-MJ&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?Sahasra-MJ=Sahasra-Oliyarasi-MJ&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -99,7 +145,7 @@ Strong foundations in **DSA & Full Stack Development**
 💯 Solved highest number of coding problems  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahasra-Oliyarasi-MJ&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?Sahasra-MJ=Sahasra-Oliyarasi-MJ&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
