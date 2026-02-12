@@ -42,7 +42,7 @@
 🔹 Express.js  
 
 ## 🔹 Database
-🔹 MongoDB  
+🔹 Sql  
 
 ## 🔹 Tools
 🔹 Git  
