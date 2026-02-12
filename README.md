@@ -103,10 +103,6 @@ Strong foundations in **DSA & Full Stack Development**
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-<!-- You can paste the card-table projects section here -->
 # 🚀 Featured Projects
 
 <table>
