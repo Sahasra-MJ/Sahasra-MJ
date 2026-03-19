@@ -35,10 +35,6 @@
 🔹 HTML  
 🔹 CSS  
 🔹 React  
-🔹 Tailwind CSS  
-
-## 🔹 Backend
-🔹 Node.js  
 
 ## 🔹 Database
 🔹 Sql  
