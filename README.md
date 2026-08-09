@@ -34,7 +34,8 @@
 ## 🔹 Frontend
 🔹 HTML  
 🔹 CSS  
-🔹 React  
+🔹 Tailwind 
+🔹 React 
 
 ## 🔹 Database
 🔹 Sql  
